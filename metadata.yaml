@@ -1,0 +1,30 @@
+_repo: Lord-Elgin_13066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bourinot, John George
+    alias: Bourinot, J. G. (John George)
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2056'
+    url: http://www.gutenberg.org/2009/agents/2056
+    wikipedia: http://en.wikipedia.org/wiki/John_George_Bourinot_(younger)
+description: ''
+gutenberg_issued: '2004-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Makers of Canada
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- 1841-1867'
+- !lcsh 'Elgin, James Bruce, Earl of, 1811-1863'
+title: Lord Elgin
+url: http://www.gutenberg.org/ebooks/13066
