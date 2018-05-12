@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2056
     wikipedia: http://en.wikipedia.org/wiki/John_George_Bourinot_(younger)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13066#Lord-Elgin
 gutenberg_issued: '2004-07-31'
 gutenberg_type: Text
 identifiers:
